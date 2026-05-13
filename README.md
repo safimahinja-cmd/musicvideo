@@ -141,7 +141,7 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-**Safim Ahinja**
+**Safi MAhinja**
 - GitHub: [@safimahinja-cmd](https://github.com/safimahinja-cmd)
 
 ## 🙏 Acknowledgments
